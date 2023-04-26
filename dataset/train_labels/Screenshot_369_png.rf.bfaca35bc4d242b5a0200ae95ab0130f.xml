@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>Screenshot_369_png.rf.bfaca35bc4d242b5a0200ae95ab0130f.jpg</filename>
+	<path>Screenshot_369_png.rf.bfaca35bc4d242b5a0200ae95ab0130f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>391</xmin>
+			<xmax>411</xmax>
+			<ymin>489</ymin>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Droga z pierwszenstwem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>386</xmin>
+			<xmax>412</xmax>
+			<ymin>418</ymin>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>132</xmax>
+			<ymin>131</ymin>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>75</xmax>
+			<ymin>440</ymin>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

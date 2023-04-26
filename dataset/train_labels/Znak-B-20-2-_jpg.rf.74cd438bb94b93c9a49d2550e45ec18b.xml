@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Znak-B-20-2-_jpg.rf.74cd438bb94b93c9a49d2550e45ec18b.jpg</filename>
+	<path>Znak-B-20-2-_jpg.rf.74cd438bb94b93c9a49d2550e45ec18b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>630</xmax>
+			<ymin>18</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

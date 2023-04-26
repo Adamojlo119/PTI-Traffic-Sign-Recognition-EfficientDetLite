@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Screenshot_111_png.rf.905faca66632850a05d9624b0009f059.jpg</filename>
+	<path>Screenshot_111_png.rf.905faca66632850a05d9624b0009f059.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz wjazdu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>495</xmin>
+			<xmax>508</xmax>
+			<ymin>386</ymin>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>301</xmin>
+			<xmax>312</xmax>
+			<ymin>403</ymin>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dzieci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>284</xmin>
+			<xmax>291</xmax>
+			<ymin>428</ymin>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

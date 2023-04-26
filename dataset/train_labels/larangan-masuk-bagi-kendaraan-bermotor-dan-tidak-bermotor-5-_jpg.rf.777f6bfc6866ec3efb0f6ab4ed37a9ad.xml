@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>larangan-masuk-bagi-kendaraan-bermotor-dan-tidak-bermotor-5-_jpg.rf.777f6bfc6866ec3efb0f6ab4ed37a9ad.jpg</filename>
+	<path>larangan-masuk-bagi-kendaraan-bermotor-dan-tidak-bermotor-5-_jpg.rf.777f6bfc6866ec3efb0f6ab4ed37a9ad.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz wjazdu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>316</xmin>
+			<xmax>550</xmax>
+			<ymin>149</ymin>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

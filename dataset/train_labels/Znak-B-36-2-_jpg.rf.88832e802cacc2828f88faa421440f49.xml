@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Znak-B-36-2-_jpg.rf.88832e802cacc2828f88faa421440f49.jpg</filename>
+	<path>Znak-B-36-2-_jpg.rf.88832e802cacc2828f88faa421440f49.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz zatrzymywania sie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>637</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

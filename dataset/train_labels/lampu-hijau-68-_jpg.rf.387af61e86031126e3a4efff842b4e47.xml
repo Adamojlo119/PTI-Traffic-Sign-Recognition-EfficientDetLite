@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>lampu-hijau-68-_jpg.rf.387af61e86031126e3a4efff842b4e47.jpg</filename>
+	<path>lampu-hijau-68-_jpg.rf.387af61e86031126e3a4efff842b4e47.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zielone swiatlo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>126</xmax>
+			<ymin>162</ymin>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zielone swiatlo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>326</xmin>
+			<xmax>405</xmax>
+			<ymin>144</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

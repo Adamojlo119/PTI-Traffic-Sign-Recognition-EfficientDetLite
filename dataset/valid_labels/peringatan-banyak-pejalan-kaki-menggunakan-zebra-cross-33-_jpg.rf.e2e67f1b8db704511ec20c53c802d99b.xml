@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>peringatan-banyak-pejalan-kaki-menggunakan-zebra-cross-33-_jpg.rf.e2e67f1b8db704511ec20c53c802d99b.jpg</filename>
+	<path>peringatan-banyak-pejalan-kaki-menggunakan-zebra-cross-33-_jpg.rf.e2e67f1b8db704511ec20c53c802d99b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>178</xmin>
+			<xmax>505</xmax>
+			<ymin>161</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>-13-12-2021-163529_jpg.rf.e8d9f46765d9179bfc199651b50e3934.jpg</filename>
+	<path>-13-12-2021-163529_jpg.rf.e8d9f46765d9179bfc199651b50e3934.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograniczenie predkosci do 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>230</xmin>
+			<xmax>417</xmax>
+			<ymin>227</ymin>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zakaz zatrzymywania sie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>214</xmin>
+			<xmax>393</xmax>
+			<ymin>374</ymin>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zakaz ruchu w obu kierunkach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>246</xmin>
+			<xmax>429</xmax>
+			<ymin>80</ymin>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

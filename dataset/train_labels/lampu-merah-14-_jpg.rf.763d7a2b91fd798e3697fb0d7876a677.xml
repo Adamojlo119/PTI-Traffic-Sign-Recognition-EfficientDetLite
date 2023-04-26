@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>lampu-merah-14-_jpg.rf.763d7a2b91fd798e3697fb0d7876a677.jpg</filename>
+	<path>lampu-merah-14-_jpg.rf.763d7a2b91fd798e3697fb0d7876a677.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Czerwone swiatlo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>166</xmin>
+			<xmax>206</xmax>
+			<ymin>131</ymin>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

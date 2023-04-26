@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>00857-1-_jpg.rf.0ae66cd5e51ca2c8fe42eddcf807f2db.jpg</filename>
+	<path>00857-1-_jpg.rf.0ae66cd5e51ca2c8fe42eddcf807f2db.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ustap pierwszenstwa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>531</xmin>
+			<xmax>585</xmax>
+			<ymin>213</ymin>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>401</xmin>
+			<xmax>415</xmax>
+			<ymin>349</ymin>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Znak-A-7-6-_jpg.rf.93d87b6be87ef17b4d22245bb6525bef.jpg</filename>
+	<path>Znak-A-7-6-_jpg.rf.93d87b6be87ef17b4d22245bb6525bef.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ustap pierwszenstwa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>625</xmax>
+			<ymin>14</ymin>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+</annotation>

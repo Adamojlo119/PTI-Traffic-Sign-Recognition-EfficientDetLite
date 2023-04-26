@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00398_jpg.rf.19e3d0302f7468dcb8a7af59813afb91.jpg</filename>
+	<path>00398_jpg.rf.19e3d0302f7468dcb8a7af59813afb91.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Droga z pierwszenstwem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>141</xmin>
+			<xmax>410</xmax>
+			<ymin>168</ymin>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

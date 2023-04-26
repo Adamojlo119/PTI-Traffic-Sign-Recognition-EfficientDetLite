@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>lampu-merah-66-_jpg.rf.436a10d691cbd3c0e1484504208602c9.jpg</filename>
+	<path>lampu-merah-66-_jpg.rf.436a10d691cbd3c0e1484504208602c9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Czerwone swiatlo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>136</xmin>
+			<xmax>165</xmax>
+			<ymin>135</ymin>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Czerwone swiatlo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>326</xmin>
+			<xmax>374</xmax>
+			<ymin>57</ymin>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Czerwone swiatlo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>584</xmin>
+			<xmax>616</xmax>
+			<ymin>178</ymin>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

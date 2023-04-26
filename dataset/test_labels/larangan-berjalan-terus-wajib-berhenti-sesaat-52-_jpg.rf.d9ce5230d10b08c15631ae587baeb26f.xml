@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>larangan-berjalan-terus-wajib-berhenti-sesaat-52-_jpg.rf.d9ce5230d10b08c15631ae587baeb26f.jpg</filename>
+	<path>larangan-berjalan-terus-wajib-berhenti-sesaat-52-_jpg.rf.d9ce5230d10b08c15631ae587baeb26f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>266</xmin>
+			<xmax>409</xmax>
+			<ymin>154</ymin>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

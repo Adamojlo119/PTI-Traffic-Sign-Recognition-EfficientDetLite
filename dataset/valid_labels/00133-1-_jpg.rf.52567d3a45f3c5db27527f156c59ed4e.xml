@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00133-1-_jpg.rf.52567d3a45f3c5db27527f156c59ed4e.jpg</filename>
+	<path>00133-1-_jpg.rf.52567d3a45f3c5db27527f156c59ed4e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz wjazdu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>114</xmax>
+			<ymin>369</ymin>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

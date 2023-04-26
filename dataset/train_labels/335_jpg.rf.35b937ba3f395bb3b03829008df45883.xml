@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>335_jpg.rf.35b937ba3f395bb3b03829008df45883.jpg</filename>
+	<path>335_jpg.rf.35b937ba3f395bb3b03829008df45883.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dzieci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>195</xmin>
+			<xmax>407</xmax>
+			<ymin>146</ymin>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

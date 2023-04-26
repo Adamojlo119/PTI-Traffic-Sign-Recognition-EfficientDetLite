@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>00884-1-_jpg.rf.bc218003f1e5808d5cfdb9fc936dd9c1.jpg</filename>
+	<path>00884-1-_jpg.rf.bc218003f1e5808d5cfdb9fc936dd9c1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograniczenie predkosci do 70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>403</xmin>
+			<xmax>419</xmax>
+			<ymin>383</ymin>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zakaz wyprzedzania</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>401</xmin>
+			<xmax>419</xmax>
+			<ymin>412</ymin>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

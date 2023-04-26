@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>-09-12-2021-183548_jpg.rf.aa8546261d216ba229b7f8ac80177ecc.jpg</filename>
+	<path>-09-12-2021-183548_jpg.rf.aa8546261d216ba229b7f8ac80177ecc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>378</xmax>
+			<ymin>165</ymin>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

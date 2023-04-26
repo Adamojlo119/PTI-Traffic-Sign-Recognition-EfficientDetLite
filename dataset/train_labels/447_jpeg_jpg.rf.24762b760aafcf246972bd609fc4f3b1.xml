@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>447_jpeg_jpg.rf.24762b760aafcf246972bd609fc4f3b1.jpg</filename>
+	<path>447_jpeg_jpg.rf.24762b760aafcf246972bd609fc4f3b1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz wyprzedzania</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>207</xmin>
+			<xmax>393</xmax>
+			<ymin>128</ymin>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

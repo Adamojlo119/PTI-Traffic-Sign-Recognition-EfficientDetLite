@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>075_jpg.rf.d6a6ba077cff9767697a43596e52772a.jpg</filename>
+	<path>075_jpg.rf.d6a6ba077cff9767697a43596e52772a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz zatrzymywania sie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>199</xmin>
+			<xmax>401</xmax>
+			<ymin>314</ymin>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Droga z pierwszenstwem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>193</xmin>
+			<xmax>447</xmax>
+			<ymin>56</ymin>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

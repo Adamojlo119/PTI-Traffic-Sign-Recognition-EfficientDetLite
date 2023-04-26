@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>00452_jpg.rf.5d4f09033284f6d40f8c92f57a19fd45.jpg</filename>
+	<path>00452_jpg.rf.5d4f09033284f6d40f8c92f57a19fd45.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograniczenie predkosci do 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>300</xmin>
+			<xmax>426</xmax>
+			<ymin>121</ymin>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dzieci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>285</xmin>
+			<xmax>425</xmax>
+			<ymin>254</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

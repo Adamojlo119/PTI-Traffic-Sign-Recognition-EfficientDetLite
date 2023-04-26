@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>-10-12-2021-191044_jpg.rf.a9a3de3ad7c02b90c5d11b8cb1a3d9c5.jpg</filename>
+	<path>-10-12-2021-191044_jpg.rf.a9a3de3ad7c02b90c5d11b8cb1a3d9c5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dzieci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>282</xmax>
+			<ymin>191</ymin>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>296</xmin>
+			<xmax>623</xmax>
+			<ymin>159</ymin>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ograniczenie predkosci do 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>180</xmin>
+			<xmax>291</xmax>
+			<ymin>70</ymin>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

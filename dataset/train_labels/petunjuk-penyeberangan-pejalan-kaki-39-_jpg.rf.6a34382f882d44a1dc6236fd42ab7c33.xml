@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>petunjuk-penyeberangan-pejalan-kaki-39-_jpg.rf.6a34382f882d44a1dc6236fd42ab7c33.jpg</filename>
+	<path>petunjuk-penyeberangan-pejalan-kaki-39-_jpg.rf.6a34382f882d44a1dc6236fd42ab7c33.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>220</xmin>
+			<xmax>379</xmax>
+			<ymin>127</ymin>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

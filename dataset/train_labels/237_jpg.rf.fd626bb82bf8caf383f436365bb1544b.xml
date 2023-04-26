@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>237_jpg.rf.fd626bb82bf8caf383f436365bb1544b.jpg</filename>
+	<path>237_jpg.rf.fd626bb82bf8caf383f436365bb1544b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>529</xmin>
+			<xmax>592</xmax>
+			<ymin>45</ymin>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Przejscie dla pieszych</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>155</xmax>
+			<ymin>100</ymin>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

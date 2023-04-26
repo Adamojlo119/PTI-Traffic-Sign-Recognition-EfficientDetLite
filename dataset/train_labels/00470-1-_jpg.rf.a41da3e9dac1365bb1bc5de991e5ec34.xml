@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>00470-1-_jpg.rf.a41da3e9dac1365bb1bc5de991e5ec34.jpg</filename>
+	<path>00470-1-_jpg.rf.a41da3e9dac1365bb1bc5de991e5ec34.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograniczenie predkosci do 30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>375</xmin>
+			<xmax>392</xmax>
+			<ymin>398</ymin>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ustap pierwszenstwa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>409</xmin>
+			<xmax>430</xmax>
+			<ymin>426</ymin>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000591_jpg.rf.52d22096b5b77eb1c8aae1af3c2417e4.jpg</filename>
+	<path>000591_jpg.rf.52d22096b5b77eb1c8aae1af3c2417e4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograniczenie predkosci do 80</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>133</xmax>
+			<ymin>444</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

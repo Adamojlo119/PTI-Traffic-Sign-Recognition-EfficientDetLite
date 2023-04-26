@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>lampu-kuning-7-_jpg.rf.b5c126d2da7aa1fba5c4b4302940271e.jpg</filename>
+	<path>lampu-kuning-7-_jpg.rf.b5c126d2da7aa1fba5c4b4302940271e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zolte swiatlo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>197</xmin>
+			<xmax>530</xmax>
+			<ymin>69</ymin>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

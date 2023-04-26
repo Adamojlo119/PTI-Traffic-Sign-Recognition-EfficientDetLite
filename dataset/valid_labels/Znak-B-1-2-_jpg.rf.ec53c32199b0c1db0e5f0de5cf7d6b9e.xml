@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Znak-B-1-2-_jpg.rf.ec53c32199b0c1db0e5f0de5cf7d6b9e.jpg</filename>
+	<path>Znak-B-1-2-_jpg.rf.ec53c32199b0c1db0e5f0de5cf7d6b9e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz ruchu w obu kierunkach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>623</xmax>
+			<ymin>41</ymin>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

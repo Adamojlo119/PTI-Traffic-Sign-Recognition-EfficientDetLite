@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>-13-12-2021-163437_jpg.rf.50aafbbe58ca1d6552dab0ade5e2253a.jpg</filename>
+	<path>-13-12-2021-163437_jpg.rf.50aafbbe58ca1d6552dab0ade5e2253a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz wjazdu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>367</xmax>
+			<ymin>53</ymin>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ograniczenie predkosci do 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>355</xmax>
+			<ymin>197</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zakaz zatrzymywania sie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>354</xmax>
+			<ymin>334</ymin>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

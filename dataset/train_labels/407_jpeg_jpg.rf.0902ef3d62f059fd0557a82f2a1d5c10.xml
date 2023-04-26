@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>407_jpeg_jpg.rf.0902ef3d62f059fd0557a82f2a1d5c10.jpg</filename>
+	<path>407_jpeg_jpg.rf.0902ef3d62f059fd0557a82f2a1d5c10.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz ruchu w obu kierunkach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>261</xmin>
+			<xmax>406</xmax>
+			<ymin>44</ymin>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

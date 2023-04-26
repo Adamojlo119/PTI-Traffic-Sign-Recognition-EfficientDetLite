@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Screenshot_257_png.rf.f7fdf48414bb61792f2b253a94abdfdc.jpg</filename>
+	<path>Screenshot_257_png.rf.f7fdf48414bb61792f2b253a94abdfdc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zakaz zatrzymywania sie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>417</xmin>
+			<xmax>444</xmax>
+			<ymin>324</ymin>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
