@@ -9,3 +9,9 @@ git clone https://github.com/Adamojlo119/PTI-Traffic-Sign-Recognition-EficientDe
 cd PTI-Traffic-Sign-Recognition-EficientDetLite
 pip install -r requirements.txt  # install
 ```
+
+## <div align="center">Train</div>
+
+```bash
+py train.py
+```
